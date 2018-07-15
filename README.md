@@ -95,7 +95,6 @@ yarn add --dev flow-bin@0.67.1
       },
       "env": {
         "browser": true,
-        "jest": true
       }
     }
 
