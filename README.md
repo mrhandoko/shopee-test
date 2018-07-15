@@ -101,3 +101,14 @@ yarn add --dev flow-bin@0.67.1
 
 ```
 
+### Run Docker
+
+```
+- docker build . -t shopee-test
+- docker container run -it -p 3000:3000 shopee-test:latest
+```
+
+### Show Running Docker Container
+```
+ - docker ps
+```
