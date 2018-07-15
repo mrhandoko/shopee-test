@@ -104,6 +104,20 @@ yarn add --dev flow-bin@0.67.1
 
 ```
 
+### Run Locally
+
+```
+- git clone https://github.com/mrhandoko/shopee-test.git
+- yarn
+- yarn start
+```
+
+### Run Testing
+
+```
+- yarn test
+```
+
 ### Run Docker
 
 ```
