@@ -108,6 +108,8 @@ yarn add --dev flow-bin@0.67.1
 - docker container run -it -p 3000:3000 shopee-test:latest
 ```
 
+will run in port 3000
+
 ### Show Running Docker Container
 ```
  - docker ps
