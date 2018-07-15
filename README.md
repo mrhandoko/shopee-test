@@ -1,6 +1,9 @@
 # shopee-test
 Frontend Engineer Test at shopee
 
+## Demo
+![Alt text](/src/images/o5iai1sbqY.gif)
+
 ## Tech Stack
 ```
 1. Node.js Environment
