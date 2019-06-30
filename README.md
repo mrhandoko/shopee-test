@@ -1,5 +1,4 @@
-# shopee-test
-Frontend Engineer Test at shopee
+## Simple Currency App
 
 ## Demo
 ![Alt text](/src/images/o5iai1sbqY.gif)
